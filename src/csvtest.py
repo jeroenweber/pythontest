@@ -6,6 +6,7 @@ import csv
 
 csvKlantBestand = 'klantBestand.csv'
 
+
 #variablen voor het registreren en opslag
 email = ""
 naam = ""
